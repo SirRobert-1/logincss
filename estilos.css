@@ -21,7 +21,7 @@ body {
 }
 
 .lado-derecho .card {
-  max-width: 500px;
+  min-width: 500px;
 }
 
 @media (max-width: 768px) {
